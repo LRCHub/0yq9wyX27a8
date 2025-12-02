@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "マニック",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T12:20:20.510480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マニック",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/01_マニック_Luna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マニック (feat. 巡音ルカ&MEIKO)",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/02_マニック_(feat._巡音ルカ&MEIKO)_Luna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マニック",
+      "artist": "びび, *Luna feat. 音街ウナ Spicy, Rana V4",
+      "has_synced": true,
+      "path": "select/03_マニック_びび,__Luna_feat._音街ウナ_Spicy,_Rana_V4.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マニック",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_マニック_NEE.txt"
+    }
+  ]
+}
